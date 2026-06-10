@@ -1,0 +1,53 @@
+(C) 1993, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beet/bhl/orch/sym5/stage2/01/mchan2}
+TIMESTAMP: DEC/30/2005 [md5sum:3a22c0e1d70cb6ae5ff5e2255c97be4b]
+08/19/93 E. Correia
+WK#:67        MV#:1
+Breitkopf & H\3artel, Series 1 No.5, Leipzig
+Symphony No. 5 in C Minor
+
+Midi assignment
+
+Group memberships: midi
+midi: part 1 of 18
+&
+Comments here
+&
+part  1 = channel  1                                          -6
+part  2 = channel  1
+part  3 = channel  2                                           5
+part  4 = channel  3                                          -5
+part  5 = channel  4                                           2
+part  6 = channel  4
+part  7 = channel  5                                         -14
+part  8 = channel  5
+part  9 = channel  6                                          20
+part 10 = channel  6
+part 11 = channel  7                                           0
+part 12 = channel  7
+part 13 = channel  8                                          13
+part 14 = channel  9                                          -9
+part 15 = channel 11                                          -9
+part 16 = channel 12                                          -5
+part 17 = channel 13                                         -10
+part 18 = channel 14                                         -12
+channel  1: instrument = 74, 74
+channel  2: instrument = 69, 69
+channel  3: instrument = 69, 69
+channel  4: instrument = 72, 72
+channel  5: instrument = 71, 71
+channel  6: instrument = 61, 61
+channel  7: instrument = 57, 57
+channel  8: instrument = 48, 48
+channel  9: instrument = 51, 46
+channel 11: instrument = 51, 46
+channel 12: instrument = 42, 46
+channel 13: instrument = 43, 46
+channel 14: instrument = 44, 46
+8 restrike factor
+160 quarter notes per minute
+30  quarter notes per minute at measure 268 beat 2
+160 quarter notes per minute at measure 269
+/END
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:accc699e0205b43757fe0fc4fbf337db]
+@REASON: consolidation of Beethoven data

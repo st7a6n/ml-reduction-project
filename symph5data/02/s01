@@ -1,0 +1,1332 @@
+(C) 1993, 2002, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym5/stage2/02/s01}
+TIMESTAMP: MAY/19/2010 [md5sum:47b9f896f168b151ea80c237124f01c0]
+08/27/93 E. Correia
+WK#:67        MV#:2
+Breitkopf & H\a3rtel, Series 1 No. 5, Leipzig
+Beethoven Symphony No. 5 in C Minor, Op. 67
+Second Movement
+Flauti 1, 2
+0 0 .
+Group memberships: score scrcon
+score: part 1 of 13
+scrcon: part 1 of 13
+&
+Modified 05/18/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+P    C0:F40d9
+$  K:-4   Q:24   T:3/8   C:4   I:2   D:Andante con moto.  (\0)\0( = 92)
+P   C0:p100x1t3a1r1z31Fl_1-2
+@  SCORECON track assignment: (1,1) (2,1) (3,1)
+rest  12      3 e
+measure 1
+rest  36      3
+measure 2
+rest  36      3
+measure 3
+rest  36      3
+measure 4
+rest  36      3
+measure 5
+rest  36      3
+measure 6
+rest  36      3
+measure 7
+rest  36      3
+measure 8
+rest  36      3
+measure 9
+rest  36      3
+measure 10
+rest  12      1 e
+rest  12      1 e
+*               D +     1.
+P    C17:x-20Y-20  C25:f32
+Af5    9      1 s.    d  [[    (p
+P   C33:Y58
+C6     3      1 t     d  ]]\   )
+measure 11
+*               GE  15  f
+P    C17:Y65    C18:Y65
+Ef6   36      1 q.    d
+*               F    0
+measure 12
+Df6   12      1 e     d        (p
+P   C33:Y58
+C6    24      1 q     d        )
+measure 13
+Bf5   12      1 e     d        (
+Af5   24      1 q     d        )
+measure 14
+G5    24      1 q     d
+G5     4      1 s  3  d  [[    (*
+Af5    4      1 s  3  d  ==
+Bf5    4      1 s  3  d  ]]    )!
+measure 15
+Af5   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+measure 16
+rest  36      3
+measure 17
+rest  36      3
+measure 18
+rest  36      3
+measure 19
+rest  12      1 e
+P   C1:Y0
+rest  12      1 e
+P   C1:Y0
+*               E    0
+P    C17:Y65
+G5     4      1 s  3  u  [[    (*
+Af5    4      1 s  3  u  ==
+Bf5    4      1 s  3  u  ]]    )!
+*               F   15
+back  36
+rest  36      2
+P   C1:Y50
+measure 20
+*               E   15
+P    C17:Y65
+Af5   12      1 e     u
+*               F    0
+rest  12      1 e
+P   C1:Y0
+Bf5   12      1 e     u        (
+back  36
+rest  12      2 e
+P   C1:Y30
+rest  12      2 e
+P   C1:Y30
+G5    12      2 e     d        [f
+P   C33:Y62
+measure 21
+Af5    6      1 s     u        )
+rest   6      1 s
+Af5    6      1 s     d         p
+P   C33:Y58   C33:Y75
+rest   6      1 s
+Af5    6      1 s     d
+rest   6      1 s
+back  36
+Af5    6      2 s     d        ]
+irest  6      2 s
+Af4    6      2 s     d
+irest  6      2 s
+Af4    6      2 s     d
+irest  6      2 s
+measure 22
+Af5   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+back  36
+Af4   12      2 e     d
+irest 12      2 e
+irest 12      2 e
+measure 23
+rest  36      3
+measure 24
+rest  36      3
+measure 25
+rest  36      3
+measure 26
+rest  36      3
+measure 27
+rest  36      3
+measure 28
+rest  12      1 e
+P   C1:Y0
+rest  12      1 e
+P   C1:Y0
+Ef6    9      1 s.    u  [[    (pp
+P   C33:Y58
+F6     3      1 t     u  ]]\   )
+back  36
+rest  36      2
+P   C1:Y50
+measure 29
+F#6   36      1 q.#   d         ff
+P   C33:Y62
+back  36
+Ef6   36      2 q.    d
+measure 30
+G6     9      1 s.    d  [[
+E6     3      1 t n   d  ]]\
+C6    12      1 e     d  [      .
+D6    12      1 e n   d  ]      .
+back  36
+E6     9      2 s.n   d  [[
+C6     3      2 t     d  ]]\
+G5    12      2 e     d  [
+B5    12      2 e n   d  ]
+measure 31
+C6    12      1 e     d
+rest  12      1 e
+rest  12      1 e
+back  36
+E5    12      2 e n   d
+irest 12      2 e
+irest 12      2 e
+measure 32
+rest  36      3
+measure 33
+rest  36      3
+measure 34
+rest  36      3
+measure 35
+rest  36      3
+measure 36
+rest  36      3
+measure 37
+rest  36      3
+measure 38
+rest  36      3
+measure 39
+rest  36      3
+measure 40
+rest  36      3
+measure 41
+rest  36      3
+measure 42
+rest  36      3
+measure 43
+rest  36      3
+measure 44
+rest  36      3
+measure 45
+rest  36      3
+measure 46
+rest  36      3
+measure 47
+rest  36      3
+measure 48
+rest  36      3
+measure 49
+rest  36      3
+measure 50
+rest  36      3
+measure 51
+rest  36      3
+measure 52
+rest  36      3
+measure 53
+rest  36      3
+measure 54
+rest  36      3
+measure 55
+rest  36      3
+measure 56
+rest  36      3
+measure 57
+rest  36      3
+measure 58
+rest  36      3
+measure 59
+rest   6      1 s
+*               D +     1.
+P    C17:x-20Y-20  C25:f32
+*               D       cresc.
+P    C17:Y65    C25:f36
+G5     6      1 s     d  [[    (
+gBf5   5      1 s     u
+Af5    6      1 s     d  ==
+G5     6      1 s     d  ==
+Af5    6      1 s     d  ==
+C6     6      1 s     d  ]]    )
+measure 60
+*               GE  15  f
+P    C17:Y65    C18:Y65
+D6     6      1 s n   d  [[    (
+Ef6    6      1 s     d  ==
+F6     6      1 s     d  ==
+Ef6    6      1 s     d  ==
+D6     6      1 s     d  ==
+Ef6    6      1 s     d  ]]    )
+*               F    0
+measure 61
+Df6   12      1 e f   d        (p+
+P   C33:Y58
+C6    24      1 q     d        )
+measure 62
+Bf5   12      1 e     d        (
+Af5   24      1 q     d        )
+measure 63
+G5    24      1 q     d
+G5     4      1 s  3  d  [[    (*
+Af5    4      1 s  3  d  ==
+Bf5    4      1 s  3  d  ]]    )!
+measure 64
+Af5   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+measure 65
+rest  36      3
+measure 66
+rest  36      3
+measure 67
+rest  36      3
+measure 68
+rest  12      1 e
+P   C1:Y0
+rest  12      1 e
+P   C1:Y0
+*               E    0
+P    C17:Y65
+G5     4      1 s  3  u  [[    (*
+Af5    4      1 s  3  u  ==
+Bf5    4      1 s  3  u  ]]    )!
+*               F   15
+back  36
+rest  36      2
+P   C1:Y50
+measure 69
+*               E   15
+P    C17:Y65
+Af5   12      1 e     u
+*               F    0
+rest  12      1 e
+P   C1:Y0
+Bf5   12      1 e     u        (
+back  36
+rest  12      2 e
+P   C1:Y30
+rest  12      2 e
+P   C1:Y30
+G5    12      2 e     d        [f
+P   C33:Y62
+measure 70
+Af5    6      1 s     u        )
+rest   6      1 s
+Af5    6      1 s     d         p
+P   C33:Y75
+rest   6      1 s
+Af5    6      1 s     d
+rest   6      1 s
+back  36
+Af5    6      2 s     d        ]
+irest  6      2 s
+Af4    6      2 s     d
+irest  6      2 s
+Af4    6      2 s     d
+irest  6      2 s
+measure 71
+Af5   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+back  36
+Af4   12      2 e     d
+irest 12      2 e
+irest 12      2 e
+measure 72
+rest  36      3
+measure 73
+rest  36      3
+measure 74
+rest  36      3
+measure 75
+rest  36      3
+measure 76
+rest  36      3
+measure 77
+rest  12      1 e
+P   C1:Y0
+rest  12      1 e
+P   C1:Y0
+Ef6    9      1 s.    u  [[    (pp
+P   C33:Y33
+F6     3      1 t     u  ]]\   )
+back  36
+rest  36      2
+P   C1:Y50
+measure 78
+F#6   36      1 q.#   d         ff
+P   C33:Y62
+back  36
+Ef6   36      2 q.    d
+measure 79
+G6     9      1 s.    d  [[
+E6     3      1 t n   d  ]]\
+C6    12      1 e     d  [      .
+D6    12      1 e n   d  ]      .
+back  36
+E6     9      2 s.n   d  [[
+C6     3      2 t     d  ]]\
+G5    12      2 e     d  [
+B5    12      2 e n   d  ]
+measure 80
+C6    12      1 e     d
+rest  12      1 e
+rest  12      1 e
+back  36
+E5    12      2 e n   d
+irest 12      2 e
+irest 12      2 e
+measure 81
+rest  36      3
+measure 82
+rest  36      3
+measure 83
+rest  36      3
+measure 84
+rest  36      3
+measure 85
+rest  36      3
+measure 86
+rest  36      3
+measure 87
+rest  36      3
+measure 88
+rest  36      3
+measure 89
+rest  36      3
+measure 90
+rest  36      3
+measure 91
+rest  36      3
+measure 92
+rest  36      3
+measure 93
+rest  36      3
+measure 94
+rest  36      3
+measure 95
+rest  36      3
+measure 96
+rest  36      3
+measure 97
+rest  12      1 e
+rest  12      1 e
+rest   6      1 s
+*               D +     1.
+P    C17:x-25Y-10  C25:f32
+Ef5    6      1 s     d         ff.
+P   C33:Y62
+measure 98
+*               GE  15  f
+P    C17:Y65    C18:Y65
+Ef6   36-     1 q.    d        -
+*               F    0
+measure 99
+Ef6   36-     1 q.    d        -p
+P   C33:Y58
+measure 100
+Ef6   36-     1 q.    d        -
+measure 101
+Ef6   36      1 q.    d        (
+measure 102
+E6    36      1 q.n   d        )
+measure 103
+F6    36-     1 q.    d        -
+measure 104
+F6    12      1 e     d
+Ef6   24-     1 q f   d        -+
+measure 105
+Ef6   36      1 q.    d         pp
+P   C33:Y58
+measure 106
+C6    12      1 e     d
+rest  12      1 e
+rest  12      1 e
+measure 107
+rest  36      3
+measure 108
+rest  36      3
+measure 109
+rest  36      3
+measure 110
+rest  36      3
+measure 111
+rest  36      3
+measure 112
+rest  36      3
+measure 113
+rest  36      3
+measure 114
+rest   6      1 s
+C6     6      1 s     d         f
+P   C33:Y62
+C6     6      1 s     d  [[
+P    C26:a
+C6     6      1 s     d  ==
+C6     6      1 s     d  ==
+C6     6      1 s     d  ]]
+back  36
+irest  6      2 s
+Af5    6      2 s     d
+Af5    6      2 s     d  [[
+P    C26:a
+Af5    6      2 s     d  ==
+Af5    6      2 s     d  ==
+Af5    6      2 s     d  ]]
+measure 115
+C6     6      1 s     d  [[
+P    C26:a
+C6     6      1 s     d  ==
+C6     6      1 s     d  ==
+C6     6      1 s     d  ==
+C6     6      1 s     d  ==
+C6     6      1 s     d  ]]
+back  36
+Af5    6      2 s     d  [[
+P    C26:a
+Af5    6      2 s     d  ==
+Af5    6      2 s     d  ==
+Af5    6      2 s     d  ==
+Af5    6      2 s     d  ==
+Af5    6      2 s     d  ]]
+measure 116
+C6     6      1 s     d  [[
+C6     6      1 s     d  ]]
+Df6    6      1 s     d  [[
+P    C26:a
+Df6    6      1 s     d  ==
+Df6    6      1 s     d  ==
+Df6    6      1 s     d  ]]
+back  36
+A5     6      2 s n   d  [[
+A5     6      2 s     d  ]]
+Bf5    6      2 s     d  [[
+P    C26:a
+Bf5    6      2 s     d  ==
+Bf5    6      2 s     d  ==
+Bf5    6      2 s     d  ]]
+measure 117
+Df6    6      1 s     d  [[
+P    C26:a
+Df6    6      1 s     d  ==
+Df6    6      1 s     d  ==
+Df6    6      1 s     d  ]]
+D6     6      1 s n   u  [[
+D6     6      1 s     u  ]]
+back  36
+Bf5    6      2 s     d  [[
+P    C26:a
+Bf5    6      2 s     d  ==
+Bf5    6      2 s     d  ==
+Bf5    6      2 s     d  ]]
+B5     6      2 s n   d  [[
+B5     6      2 s     d  ]]
+measure 118
+E6     6      1 s n   d  [[
+P    C26:a
+E6     6      1 s     d  ==
+E6     6      1 s     d  ==
+E6     6      1 s     d  ==
+E6     6      1 s     d  ==
+E6     6      1 s     d  ]]
+back  36
+C6     6      2 s     d  [[
+P    C26:a
+C6     6      2 s     d  ==
+C6     6      2 s     d  ==
+C6     6      2 s     d  ==
+C6     6      2 s     d  ==
+C6     6      2 s     d  ]]
+measure 119
+F6     6      1 s     d  [[
+F6     6      1 s     d  ]]
+F6     6      1 s     d  [[
+P    C26:a
+F6     6      1 s     d  ==
+F6     6      1 s     d  ==
+F6     6      1 s     d  ]]
+back  36
+C6     6      2 s     d  [[
+Ef6    6      2 s f   d  ]]     +
+Df6    6      2 s     d  [[
+P    C26:a
+Df6    6      2 s     d  ==
+Df6    6      2 s     d  ==
+Df6    6      2 s     d  ]]
+measure 120
+F6     6      1 s     d  [[
+Ef6    6      1 s f   d  ]]     +
+Ef6    6      1 s     d  [[
+P    C26:a
+Ef6    6      1 s     d  ==
+Ef6    6      1 s     d  ==
+Ef6    6      1 s     d  ]]
+back  36
+Df6    6      2 s     d  [[
+Df6    6      2 s     d  ]]
+C6     6      2 s     d  [[
+P    C26:a
+C6     6      2 s     d  ==
+C6     6      2 s     d  ==
+C6     6      2 s     d  ]]
+measure 121
+Ef6   36      1 q.    d
+back  36
+Bf5   36      2 q.    d
+measure 122
+Ef5   12-     1 e     d  [     -
+Ef5    6      1 s     d  =[    (
+F5     3      1 t     d  ==[
+G5     3      1 t     d  ]]]
+Af5    3      1 t     d  [[[
+Bf5    3      1 t     d  ===
+C6     3      1 t     d  ===
+D6     3      1 t n   d  ]]]   )
+back  36
+Ef4   12-     2 e     d  [     -
+Ef4    6      2 s     d  =[
+F4     3      2 t     d  ==[
+G4     3      2 t     d  ]]]
+Af4    3      2 t     d  [[[
+Bf4    3      2 t     d  ===
+C5     3      2 t     d  ===
+D5     3      2 t n   d  ]]]
+measure 123
+Ef6   24      1 q     d         F
+rest  12      1 e
+back  36
+Ef5   24      2 q     d
+irest 12      2 e
+measure 124
+rest  36      3
+measure 125
+rest  36      3
+measure 126
+rest  36      3
+measure 127
+rest  36      3
+measure 128
+rest  36      3
+measure 129
+rest  36      3
+measure 130
+rest  36      3
+measure 131
+rest  12      1 e
+rest  12      1 e
+*               D +     1.
+P    C17:x-15Y-15  C25:f32
+*               D       dolce
+P    C17:Y80x-15    C25:f36
+Af4    6      1 s     d  [[    (
+D5     6      1 s n   d  ]]
+measure 132
+F5    12    @ 1 e     d  [     )&.
+@ Staccato added in conformity with other woodwinds.
+F5     6      1 s     d  =[    (
+Ef5    6      1 s     d  ==
+D5     6      1 s n   d  ==
+F5     6      1 s     d  ]]
+measure 133
+Af5   12      1 e     d  [     )
+Af5    6      1 s     d  =[    (
+G5     6      1 s     d  ==
+F5     6      1 s     d  ==
+Af5    6      1 s     d  ]]
+measure 134
+C6    12      1 e     d  [     )
+C6     6      1 s     d  =[    (
+Bf5    6      1 s     d  ==
+Af5    6      1 s     d  ==
+G5     6      1 s     d  ]]
+measure 135
+F5    12      1 e     d  [     )
+F5     6      1 s     d  =[    (
+G5     6      1 s     d  ==
+Af5    6      1 s     d  ==
+Bf5    6      1 s     d  ]]    )
+measure 136
+*               E    0
+P    C17:Y65
+C6     6      1 s     d  [[    (
+Bf5    6      1 s     d  ==
+Af5    6      1 s     d  ==
+G5     6      1 s     d  ==
+F5     6      1 s     d  ==
+G5     6      1 s     d  ]]
+measure 137
+Af5    6      1 s     d  [[
+Bf5    6      1 s     d  ==
+*               F   15
+C6     6      1 s     d  ==    )
+*               E   15
+P    C17:Y65
+C6     6      1 s     d  ==    (
+Bf5    6      1 s     d  ==
+Af5    6      1 s     d  ]]
+*               F    0
+measure 138
+G5    36-     1 q.    d        -)
+measure 139
+G5     6      1 s     d  [[    (
+Af5    6      1 s     d  ==
+Bf5    6      1 s     d  ==
+C6     6      1 s     d  ==
+Df6    6      1 s     d  ==
+Ef6    6      1 s     d  ]]
+measure 140
+*               E    0
+P    C17:Y65
+F6    12      1 e     d  [     )
+F6     6      1 s     d  =[    (
+Ef6    6      1 s     d  ==
+Df6    6      1 s     d  ==
+C6     6      1 s     d  ]]
+measure 141
+Bf5    6      1 s     d  [[
+C6     6      1 s     d  ==
+Df6    6      1 s     d  ==
+Ef6    6      1 s     d  ==
+F6     6      1 s     d  ==
+*               F   15
+Ef6    6      1 s     d  ]]
+measure 142
+*               E   15
+P    C17:Y65
+Df6    6      1 s     d  [[
+C6     6      1 s     d  ==
+Bf5    6      1 s     d  ==    )
+F6     6      1 s     d  ==     .
+Ef6    6      1 s     d  ==     .
+*               F    0
+Df6    6      1 s     d  ]]     .
+measure 143
+C6     6      1 s     d  [[     .
+Ef6    6      1 s     d  ==     .
+Df6    6      1 s     d  ==     .
+C6     6      1 s     d  ==     .
+Bf5    6      1 s     d  ]]     .
+rest   6      1 s
+measure 144
+rest  12      1 e
+rest   6      1 s
+C6     6      1 s     d  [[     .
+Bf5    6      1 s     d  ==     .
+Af5    6      1 s     d  ]]     .
+measure 145
+*               D       cresc.
+P    C17:Y65    C25:f36
+G5     6      1 s     d  [[
+P    C26:a
+G5     6      1 s     d  ==
+G5     6      1 s     d  ==
+G5     6      1 s     d  ==
+G5     6      1 s     d  ==
+G5     6      1 s     d  ]]
+measure 146
+G5     6      1 s     d  [[
+P    C26:a
+G5     6      1 s     d  ==
+G5     6      1 s     d  ==
+G5     6      1 s     d  ]]
+rest  12      1 e
+measure 147
+rest  12      1 e
+rest  12      1 e
+E5     9      1 s.n   u  [[
+G5     3      1 t     u  ]]\
+back  36
+irest 12      2 e
+irest 12      2 e
+E5     9      2 s.n   d  [[     ff
+P   C33:Y62
+G5     3      2 t     d  ]]\
+measure 148
+C6    12      1 e     d  [
+C6    12      1 e     d  =
+D6    12      1 e n   d  ]
+back  36
+E5    12      2 e n   d  [
+E5    12      2 e     d  =
+B5    12      2 e n   d  ]
+measure 149
+E6    36-     1 q.n   d        -
+back  36
+C6    36-     2 q.    d        -
+measure 150
+E6    24      1 q     d
+C6     9      1 s.    d  [[
+D6     3      1 t n   d  ]]\
+back  36
+C6    24      2 q     d
+E5     9      2 s.n   d  [[
+B5     3      2 t n   d  ]]\
+measure 151
+E6    12      1 e n   d  [
+E6    12      1 e     d  =
+F6    12      1 e     d  ]
+back  36
+C6    12      2 e     d  [
+C6    12      2 e     d  =
+D6    12      2 e n   d  ]
+measure 152
+G6    36-     1 q.    d        -
+back  36
+E6    36-     2 q.n   d        -
+measure 153
+G6    24      1 q     d
+E6     9      1 s.n   d  [[
+F6     3      1 t     d  ]]\
+back  36
+E6    24      2 q     d
+C6     9      2 s.    d  [[
+D6     3      2 t n   d  ]]\
+measure 154
+G6    24      1 q     d
+E6     9      1 s.n   d  [[
+F6     3      1 t     d  ]]\
+back  36
+E6    24      2 q n   d
+C6     9      2 s.    d  [[
+D6     3      2 t n   d  ]]\
+measure 155
+G6    24      1 q     d
+E6     9      1 s.n   d  [[
+F6     3      1 t     d  ]]\
+back  36
+E6    24      2 q n   d
+C6     9      2 s.    d  [[
+D6     3      2 t n   d  ]]\
+measure 156
+*               DE  15  dimin.
+P    C17:Y65    C18:Y65    C25:f36
+G6    36-     1 q.    d        -
+back  36
+E6    36-     2 q.n   d        -
+measure 157
+G6    36-     1 q.    d        -
+*               F    0
+back  36
+E6    36-     2 q.    d        -
+measure 158
+G6    12      1 e     d         p
+P   C33:Y58
+rest  12      1 e
+rest  12      1 e
+back  36
+E6    12      2 e     d
+irest 12      2 e
+irest 12      2 e
+measure 159
+rest  36      3
+measure 160
+rest  36      3
+measure 161
+rest  36      3
+measure 162
+rest  36      3
+measure 163
+rest  36      3
+measure 164
+rest  36      3
+measure 165
+rest  36      3
+measure 166
+rest  12      1 e
+rest  12      1 e
+*               D +     1.
+P    C17:x-20Y-15  C25:f32
+Ef5    6      1 s     d  [[     p.
+P   C33:Y58   C33:Y64
+rest   3      1 t
+P    C1:Y0
+Af5    3      1 t     d  ]]\    .
+measure 167
+Cf6   12      1 e f   d
+Cf6    6      1 s     d  [[     .
+rest   3      1 t
+P    C1:Y-10
+Bf5    3      1 t     d  ==\    .
+Af5    6      1 s     d  ==     .
+rest   3      1 t
+P    C1:Y-10
+Cf6    3      1 t     d  ]]\    .
+measure 168
+G5    24      1 q     d
+Af5    6      1 s     d  [[     .
+rest   3      1 t
+P    C1:Y-10
+Bf5    3      1 t     d  ]]\    .
+measure 169
+Cf6   12      1 e f   d
+Cf6    6      1 s     d  [[     .
+rest   3      1 t
+P    C1:Y-10
+Bf5    3      1 t     d  ==\    .
+Af5    6      1 s     d  ==     .
+rest   3      1 t
+P    C1:Y-10
+Cf6    3      1 t     d  ]]\    .
+measure 170
+Df6   24      1 q f   d         +
+Cf6    6      1 s f   d  [[     .
+rest   3      1 t
+P    C1:Y-10
+Df6    3      1 t     d  ]]\    .
+measure 171
+Ef6   12      1 e     d  [
+Ef6    6      1 s     d  =[     .
+rest   3      1 t
+P    C1:Y-10
+Df6    3      1 t f   d  ==\    .+
+Cf6    6      1 s f   d  ==     .
+rest   3      1 t
+P    C1:Y-10
+Ef6    3      1 t     d  ]]\    .
+measure 172
+Df6   24      1 q f   d         +
+Ef6    6      1 s     d  [[     .
+rest   3      1 t
+P    C1:Y-10
+Df6    3      1 t     d  ]]\    .
+measure 173
+Cf6   12      1 e f   d  [
+Cf6    6      1 s     d  =[     .
+rest   3      1 t
+P    C1:Y-10
+Bf5    3      1 t     d  ==\    .
+Af5    6      1 s     d  ==     .
+rest   3      1 t
+P    C1:Y-10
+Cf6    3      1 t     d  ]]\    .
+measure 174
+*               D       cresc.
+P    C17:Y65    C25:f36
+Bf5   18      1 e.    u  [     (
+Cf6    6      1 s f   u  =[
+Af5    6      1 s     u  ==
+Cf6    6      1 s     u  ]]    )
+back  36
+rest  12      2 e
+P   C1:Y30
+rest  12      2 e
+P   C1:Y30
+rest   6      2 s
+P   C1:Y30
+Af5    6      2 s     d
+measure 175
+Bf5   18      1 e.    d  [     (
+Cf6    6      1 s f   d  =[
+Af5    6      1 s     d  ==
+Cf6    6      1 s     d  ]]    )
+back  36
+G5    18      2 e.    d  [
+Af5    6      2 s     d  =[
+Ef5    6      2 s     d  ==
+Af5    6      2 s     d  ]]
+measure 176
+Bf5    6      1 s     d
+*               D +     1.
+P    C17:x-5Y-15  C25:f32
+Ef5   12      1 e     d  [
+*               D       p dolce
+P    C17:Y65    C25:f1    C26:f36
+D5     6      1 s n   d  =[    (
+Ef5    6      1 s     d  ==
+E5     6      1 s n   d  ]]
+back  36
+G5     6      2 s     d        f
+irest 12      2 e
+irest  6      2 s
+irest 12      2 e
+measure 177
+F5     6      1 s     d  [[
+F#5    6      1 s #   d  ==
+G5     6      1 s     d  ==
+Af5    6      1 s     d  ==
+A5     6      1 s n   d  ==
+Bf5    6      1 s     d  ]]
+measure 178
+C6     6      1 s     d  [[
+Df6    6      1 s     d  ==
+Ef6    6      1 s     d  ==
+F6     6      1 s     d  ==    )
+A5     6      1 s n   d  ==    (
+Bf5    6      1 s     d  ]]
+measure 179
+C6     6      1 s     d  [[
+Df6    6      1 s     d  ]]    )
+rest  12      1 e
+rest  12      1 e
+measure 180
+rest  36      3
+measure 181
+rest  36      3
+measure 182
+rest  36      3
+measure 183
+rest  36      3
+measure 184
+rest  12      1 e
+P    C1:Y10
+*               D       cresc.
+P    C17:Y65    C25:f36
+Bf4    3      1 t     u  [[[   (
+C5     3      1 t     u  ===
+Df5    3      1 t     u  ===
+Ef5    3      1 t     u  ]]]
+F5     3      1 t     u  [[[
+G5     3      1 t     u  ===
+Af5    3      1 t     u  ===
+Bf5    3      1 t     u  ]]]   )
+back  36
+rest  36      2
+P   C1:Y50
+measure 185
+*               D +     zu 2
+P    C17:Y-40x-10         C25:f32
+C6    36-     3 q.    d        -ff
+P   C33:Y62
+measure 186
+C6     9      3 s.    d  [[    (
+Bf5    3      3 t     d  ==\
+Af5    9      3 s.    d  ==
+C6     3      3 t     d  ]]\   )
+F5    12-     3 e     d        -
+measure 187
+F5    12      3 e     d
+Df6    9      3 s.    d  [[    (
+C6     3      3 t     d  ==\
+Bf5    9      3 s.    d  ==
+Df6    3      3 t     d  ]]\   )
+measure 188
+G5     9      3 s.    d  [[    (
+Bf5    3      3 t     d  ==\
+E5     9      3 s.n   d  ==
+G5     3      3 t     d  ]]\   )
+C6    12-     3 e     d        -
+measure 189
+C6    12      3 e     d
+Df6    9      3 s.    d  [[    (
+Bf5    3      3 t     d  ]]\   )
+F6    12      3 e     d
+measure 190
+Bf5   12      3 e     d
+C6     9      3 s.    d  [[    (
+Af5    3      3 t     d  ]]\   )
+Ef6   12      3 e     d
+measure 191
+Ef6   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+back  36
+Bf5   12      2 e     d
+irest 12      2 e
+irest 12      2 e
+measure 192
+C6    12      1 e     d
+rest  12      1 e
+rest  12      1 e
+back  36
+Af5   12      2 e     d
+irest 12      2 e
+irest 12      2 e
+measure 193
+Bf5    6      1 s     u
+rest   6      1 s
+P   C1:Y-10
+rest   6      1 s
+P   C1:Y-10
+Bf4    3      1 t     u  [[[
+C5     3      1 t     u  ]]]
+Df5    3      1 t     u  [[[
+Ef5    3      1 t     u  ===
+F5     3      1 t     u  ===
+G5     3      1 t     u  ]]]
+back  36
+G5    12      2 e     d
+rest  12      2 e
+P   C1:Y40
+rest  12      2 e
+P   C1:Y40
+measure 194
+Af5   12      1 e     u
+rest  12      1 e
+P   C1:Y0
+Af5    9      1 s.    d  [[    (
+C6     3      1 t     d  ]]\   )
+back  36
+rest  12      2 e
+P   C1:Y40
+rest  12      2 e
+P   C1:Y40
+Af4    9      2 s.    d  [[    [
+C5     3      2 t     d  ]]\   ]
+measure 195
+*               GE  15  Z
+P    C17:Y60    C18:Y60
+Ef6   36      1 q.    u
+*               F    0
+back  36
+Ef5   12      2 e     d
+rest  12      2 e
+P   C1:Y20
+rest  12      2 e
+P   C1:Y20
+measure 196
+*               D       p dolce
+P    C17:Y60    C25:f1    C26:f36
+Df6   12      1 e     u        (
+C6    24      1 q     u        )
+back  36
+rest  36      2
+P   C1:Y40
+measure 197
+Bf5   12      1 e     u        (
+Af5   24      1 q     u        )
+back  36
+rest  36      2
+P   C1:Y40
+measure 198
+G5    24      1 q     u
+G5     4      1 s  3  u  [[    (*
+Af5    4      1 s  3  u  ==
+Bf5    4      1 s  3  u  ]]    )!
+back  36
+rest  36      2
+P   C1:Y40
+measure 199
+Af5   12      1 e     u
+rest  12      1 e
+P   C1:Y0
+rest  12      1 e
+P   C1:Y0
+back  36
+rest  36      2
+P   C1:Y40
+measure 200
+rest  36      3
+measure 201
+rest  36      3
+measure 202
+rest  36      3
+measure 203
+rest  12      1 e
+rest  12      1 e
+*               D +     1.
+P    C17:x-25Y-15  C25:f32
+G5     4      1 s  3  d  [[    (*p
+P   C34:Y58
+Af5    4      1 s  3  d  ==
+Bf5    4      1 s  3  d  ]]    )!
+measure 204
+P   C0:d4
+Af5   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+measure 205
+$    D:Pi\u8 moto.  (\0)\0( = 116)
+rest  36      3
+measure 206
+rest  36      3
+measure 207
+rest  36      3
+measure 208
+rest  36      3
+measure 209
+rest  36      3
+measure 210
+rest  36      3
+measure 211
+rest  36      3
+measure 212
+rest  36      3
+measure 213
+rest  36      3
+measure 214
+rest  12      1 e
+rest  12      1 e
+Ef5   12      1 e     d        (
+back  36
+irest 12      2 e
+irest 12      2 e
+Bf4   12      2 e     d        [f
+P   C33:Y62
+measure 215
+C5    12      1 e     u        )
+rest  12      1 e
+rest  12      1 e
+back  36
+C5    12      2 e     d        ]
+irest 12      2 e
+irest 12      2 e
+measure 216
+rest  12      1 e
+rest  12      1 e
+Bf5   12      1 e     d        (
+back  36
+irest 12      2 e
+irest 12      2 e
+G5    12      2 e     d        [f
+P   C33:Y62
+measure 217
+P   C0:d11
+C6    12      1 e     d        )
+rest  12      1 e
+rest   4      1 s  3           *
+rest   4      1 s  3
+*               D +     1.
+P    C17:x-10Y-10  C25:f32
+C5     4      1 s  3  d        !
+back  36
+Af5   12      2 e     d        ]
+irest 12      2 e
+irest 12      2 e
+measure 218
+Ef5    4      1 s  3  d  [[    (*ff
+P   C34:Y58
+Af5    4      1 s  3  d  ==
+C6     4      1 s  3  d  ]]    )!
+$  D:Tempo I
+Ef6   24-     1 q     d        -f
+P   C33:Y53
+measure 219
+*               E   15
+P    C17:Y58
+Ef6   36      1 q.    d
+*               F    0
+measure 220
+*             1 D       p dolce
+P    C17:Y60x-5    C25:f1    C26:f36
+Df6   12      1 e     d        (
+C6    24      1 q     d        )
+measure 221
+Bf5   12      1 e     d        (
+Af5   24      1 q     d        )
+measure 222
+G5    24      1 q     d
+G5     4      1 s  3  d  [[    (*
+Af5    4      1 s  3  d  ==
+Bf5    4      1 s  3  d  ]]    )!
+measure 223
+Af5   12      1 e     d
+rest  12      1 e
+rest  12      1 e
+measure 224
+rest  36      3
+measure 225
+rest  12      1 e
+rest  12      1 e
+rest   6      1 s
+*               D +     1.
+P    C17:x-30Y-20  C25:f32
+Ef6    6      1 s     d        f
+P   C32:Y53
+measure 226
+Ef6    6      1 s     d  [[    (
+Df6    6      1 s     d  ]]
+C6    18      1 e.    d        )Z
+P   C33:Y53
+rest   6      1 s
+measure 227
+rest  36      3
+measure 228
+rest  36      3
+measure 229
+rest  36      3
+measure 230
+rest  36      3
+measure 231
+rest  36      3
+measure 232
+rest  36      3
+measure 233
+rest  36      3
+measure 234
+rest  36      3
+measure 235
+rest  36      3
+measure 236
+rest  36      3
+measure 237
+rest  36      3
+measure 238
+rest  36      3
+measure 239
+rest  36      3
+measure 240
+rest  12      1 e
+rest  12      1 e
+Af5    4      1 s  3  u  [[
+Af5    4      1 s  3  u  ==
+Af5    4      1 s  3  u  ]]
+back  36
+irest 12      2 e
+irest 12      2 e
+Af5    4      2 s  3  d  [[     f
+P   C33:Y62
+Af5    4      2 s  3  d  ==
+Af5    4      2 s  3  d  ]]
+measure 241
+Af5    4      1 s  3  u  [[
+Af5    4      1 s  3  u  ==
+Af5    4      1 s  3  u  ]]
+Af5    4      1 s  3  u  [[
+Af5    4      1 s  3  u  ==
+Af5    4      1 s  3  u  ]]
+Af5    4      1 s  3  u  [[
+C6     4      1 s  3  u  ==
+Ef6    4      1 s  3  u  ]]
+back  36
+Af5    4      2 s  3  d  [[
+Af5    4      2 s  3  d  ==
+Af5    4      2 s  3  d  ]]
+Af5    4      2 s  3  d  [[
+Af5    4      2 s  3  d  ==
+Af5    4      2 s  3  d  ]]
+Af5    4      2 s  3  d  [[
+C5     4      2 s  3  d  ==
+Ef5    4      2 s  3  d  ]]
+measure 242
+Af6   12      1 e     d
+rest  12      1 e
+Af5    9      1 s.    u  [[
+C6     3      1 t     u  ]]\
+back  36
+Af5   12      2 e     d         ff
+P   C33:Y62
+irest 12      2 e
+rest  12      2 e
+P   C1:Y30
+measure 243
+Ef6   36      1 q.    d         Z
+P   C33:Y62
+back  36
+Ef5   36      2 q.    d
+measure 244
+C6    12      1 e     d
+rest  12      1 e
+Ef6   12      1 e     d        .p
+P   C33:Y58
+back  36
+C5    12      2 e     d
+irest 12      2 e
+G5    12      2 e     d
+measure 245
+C6    12      1 e     d        .
+rest  12      1 e
+Af5    9      1 s.    u  [[
+C6     3      1 t     u  ]]\
+back  36
+Af5   12      2 e     d
+irest 12      2 e
+Af5    9      2 s.    d  [[     f
+P   C33:Y62
+C6     3      2 t     d  ]]\
+measure 246
+Ef6   36      1 q.    d         ff
+P   C33:Y62
+back  36
+Ef5   36      2 q.    d
+measure 247
+Af5   12      1 e     d
+rest  12      1 e
+back  24
+Af4   12      2 e     d
+irest 12      2 e
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/26/2001 [md5sum:63061671935aeef03b7ff147331c976b]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:95432f11fec254beb33de00f9522b1b2]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:c5718e4312cb528dd030fff6201c62ee]
+@REASON: additions and refinements to Beethoven data

@@ -1,0 +1,70 @@
+(C) 1993, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beet/bhl/orch/sym5/stage2/03/mchan2}
+TIMESTAMP: DEC/30/2005 [md5sum:290daa0c5b5c993863036d5069475216]
+08/19/93 E. Correia
+WK#:67        MV#:3
+Breitkopf & H\3artel, Series 1 No.5, Leipzig
+Symphony No. 5 in C Minor
+
+Midi assignment
+
+Group memberships: midi
+midi: part 1 of 18
+&
+Comments here
+&
+part  1 = channel  1                                           5
+part  2 = channel  1
+part  3 = channel  2                                         -12
+part  4 = channel  2
+part  5 = channel  3                                         -16
+part  6 = channel  3
+part  7 = channel  4                                         -24
+part  8 = channel  4
+part  9 = channel  5                                          25
+part 10 = channel  5
+part 11 = channel  6                                           0
+part 12 = channel  6
+part 13 = channel  7                                          13
+part 14 = channel  8                                          -9
+part 15 = channel  9                                          -9
+part 16 = channel 11                                          -5
+part 17 = channel 12                                         -12
+part 18 = channel 13                                         -13
+channel  1: instrument = 74, 74
+channel  2: instrument = 69, 69
+channel  3: instrument = 72, 72
+channel  4: instrument = 71, 71
+channel  5: instrument = 61, 61
+channel  6: instrument = 57, 57
+channel  7: instrument = 48, 48
+channel  8: instrument = 51, 46
+channel  9: instrument = 51, 46
+channel 11: instrument = 42, 46
+channel 12: instrument = 43, 46
+channel 13: instrument = 44, 46
+6 restrike factor
+250  quarter notes per minute
+170  quarter notes per minute at measure   6, beat 3
+130  quarter notes per minute at measure   7, beat 3
+80   quarter notes per minute at measure   8, beat 1
+250  quarter notes per minute at measure   8, beat 3
+170  quarter notes per minute at measure  16, beat 3
+110  quarter notes per minute at measure  17, beat 3
+80   quarter notes per minute at measure  18, beat 1
+250  quarter notes per minute at measure  19, beat 1
+170  quarter notes per minute at measure  50, beat 3
+130  quarter notes per minute at measure  51, beat 3
+80   quarter notes per minute at measure  52, beat 1
+250  quarter notes per minute at measure  52, beat 3
+170  quarter notes per minute at measure 243, beat 3
+120  quarter notes per minute at measure 244, beat 3
+80   quarter notes per minute at measure 245, beat 1
+250  quarter notes per minute at measure 245, beat 3
+170  quarter notes per minute at measure 253, beat 3
+110  quarter notes per minute at measure 254, beat 3
+80   quarter notes per minute at measure 255, beat 1
+250  quarter notes per minute at measure 255, beat 3
+/END
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:05661affb9ac22deb6702d5f026b80c4]
+@REASON: consolidation of Beethoven data

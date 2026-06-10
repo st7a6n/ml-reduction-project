@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Large local model/checkpoint artifacts. GitHub rejects files over 100 MB
+# without Git LFS, which is not installed in this environment.
+models/*.joblib
+final_pipeline/checkpoints/*.pt
+

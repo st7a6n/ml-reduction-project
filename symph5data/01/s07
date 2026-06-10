@@ -1,0 +1,1328 @@
+(C) 1993, 2002, 2005 Center for Computer Assisted Research in the Humanities.
+ID: {beethoven/bhl/orch/sym5/stage2/01/s07}
+TIMESTAMP: MAY/19/2010 [md5sum:9a7b67a1969f48fa7e5e380e4eb886ee]
+08/19/93 E. Correia
+WK#:67        MV#:1
+Breitkopf & H\a3rtel, Series 1 No. 5, Leipzig
+Beethoven Symphony No. 5 in C Minor, Op. 67
+First Movement
+Timpani// in C, G
+0 0 .
+Group memberships: score scrcon
+score: part 7 of 13
+scrcon: part 7 of 13
+&
+Modified 05/15/08 for SCORE conversion
+&
+Pv4.02
+Pxs
+$  K:0   Q:2   T:2/4  C:22  D:Allegro con brio
+P   C0:p100t3a1r1z31Timp./(C-G)
+rest   4
+measure 2
+P   C0:x1
+rest   4                        F
+measure 3
+rest   4
+measure 4
+rest   4
+measure 5
+rest   4                        F
+measure 6
+rest   4
+measure 7
+rest   4
+measure 8
+rest   4
+measure 9
+rest   4
+measure 10
+rest   4
+measure 11
+rest   4
+measure 12
+rest   4
+measure 13
+rest   4
+measure 14
+rest   4
+measure 15
+rest   4
+measure 16
+rest   4
+measure 17
+rest   4
+measure 18
+rest   1        e
+*               D       p cresc.
+P    C17:Y65     C25:f1    C26:f36
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 19
+C3     2        q     u         f
+P    C33:Y62
+rest   2        q
+measure 20
+C3     2        q     u
+rest   2        q
+measure 21
+G2     2        q     u
+rest   2        q               F
+measure 22
+rest   4
+measure 23
+rest   4
+measure 24
+rest   4                        F
+measure 25
+rest   4
+measure 26
+rest   4
+measure 27
+rest   4
+measure 28
+rest   4
+measure 29
+rest   4
+measure 30
+rest   4
+measure 31
+rest   4
+measure 32
+rest   4
+measure 33
+rest   4
+measure 34
+rest   4
+measure 35
+rest   4
+measure 36
+rest   4
+measure 37
+rest   4
+measure 38
+rest   4
+measure 39
+rest   4
+measure 40
+rest   4
+measure 41
+rest   4
+measure 42
+rest   4
+measure 43
+C3     2        q     u         f
+P    C33:Y62
+rest   2        q
+measure 44
+C3     2        q     u         f
+P    C33:Y62
+rest   2        q
+measure 45
+rest   4
+measure 46
+rest   4
+measure 47
+rest   2        q
+C3     1        e     u  [
+C3     1        e     u  ]
+measure 48
+G2     2        q     u
+rest   2        q
+measure 49
+rest   4
+measure 50
+rest   4
+measure 51
+rest   2        q
+C3     1        e     u  [
+C3     1        e     u  ]
+measure 52
+C3     1        e     u  [      ff
+P    C33:Y62     C26:A
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 53
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 54
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 55
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+P    C26:b
+measure 56
+C3     2        q     u
+rest   2        q
+measure 57
+rest   4
+measure 58
+rest   4
+measure 59
+rest   4
+measure 60
+rest   4
+measure 61
+rest   4
+measure 62
+rest   4
+measure 63
+rest   4
+measure 64
+rest   4
+measure 65
+rest   4
+measure 66
+rest   4
+measure 67
+rest   4
+measure 68
+rest   4
+measure 69
+rest   4
+measure 70
+rest   4
+measure 71
+rest   4
+measure 72
+rest   4
+measure 73
+rest   4
+measure 74
+rest   4
+measure 75
+rest   4
+measure 76
+rest   4
+measure 77
+rest   4
+measure 78
+rest   4
+measure 79
+rest   4
+measure 80
+rest   4
+measure 81
+rest   4
+measure 82
+rest   4
+measure 83
+rest   4
+measure 84
+rest   4
+measure 85
+rest   4
+measure 86
+rest   4
+measure 87
+rest   4
+measure 88
+rest   4
+measure 89
+rest   4
+measure 90
+rest   4
+measure 91
+rest   4
+measure 92
+rest   4
+measure 93
+rest   4
+measure 94
+rest   4
+measure 95
+rest   4
+measure 96
+rest   4
+measure 97
+rest   4
+measure 98
+G2     2        q     u         f
+P   C33:Y66
+rest   2        q
+measure 99
+C3     2        q     u
+rest   2        q
+measure 100
+rest   4
+measure 101
+rest   4
+measure 102
+rest   4
+measure 103
+rest   4
+measure 104
+rest   2        q
+G2     2        q     u
+measure 105
+rest   4
+measure 106
+rest   2        q
+G2     2        q     u
+measure 107
+rest   2        q
+C3     2        q     u
+measure 108
+rest   4
+measure 109
+rest   4
+measure 110
+rest   4
+measure 111
+rest   4
+measure 112
+rest   4
+measure 113
+rest   4
+measure 114
+rest   4
+measure 115
+rest   4
+measure 116
+rest   4
+measure 117
+rest   4
+measure 118
+rest   4
+measure 119
+rest   4
+measure 120
+rest   4
+measure 121
+rest   4
+measure 122
+rest   4
+measure 123
+rest   4
+measure 124
+rest   4
+mheavy2 125     :|
+rest   4
+measure 126
+rest   4
+measure 127
+rest   4
+measure 128
+rest   4                        F
+measure 129
+rest   4
+measure 130
+rest   4
+measure 131
+rest   4
+measure 132
+rest   4
+measure 133
+rest   4
+measure 134
+rest   4
+measure 135
+rest   4
+measure 136
+rest   4
+measure 137
+rest   4
+measure 138
+rest   4
+measure 139
+rest   4
+measure 140
+rest   4
+measure 141
+rest   4
+measure 142
+rest   4
+measure 143
+rest   4
+measure 144
+rest   4
+measure 145
+rest   4
+measure 146
+rest   4
+measure 147
+rest   4
+measure 148
+rest   4
+measure 149
+rest   4
+measure 150
+rest   4
+measure 151
+rest   4
+measure 152
+rest   4
+measure 153
+rest   4
+measure 154
+rest   4
+measure 155
+rest   4
+measure 156
+rest   4
+measure 157
+rest   4
+measure 158
+G2     2        q     u         pp
+P   C33:Y64
+rest   2        q
+measure 159
+rest   4
+measure 160
+C3     2        q     u
+rest   2        q
+measure 161
+rest   4
+measure 162
+C3     2        q     u
+rest   2        q
+measure 163
+rest   4
+measure 164
+G2     2        q     u
+rest   2        q
+measure 165
+rest   4
+measure 166
+G2     2        q     u
+rest   2        q
+measure 167
+rest   4
+measure 168
+C3     1        e     u  [      f
+P    C33:Y62     C26:A
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 169
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+P    C26:b
+measure 170
+C3     2        q     u
+rest   2        q
+measure 171
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 172
+G2     1        e     u  [
+P    C26:A
+G2     1        e     u  =
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 173
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  =
+G2     1        e     u  ]
+P    C26:b
+measure 174
+G2     2        q     u
+rest   2        q
+measure 175
+rest   1        e
+*               DH      pi\u8 f
+P    C17:Y65    C18:Y65    C25:f33   C31:f1
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 176
+G2     2        q     u
+rest   2        q
+measure 177
+rest   2        q
+G2     1        e     u  [
+G2     1        e     u  ]
+measure 178
+*               J
+G2     2        q     u
+rest   2        q
+measure 179
+rest   4
+measure 180
+rest   4
+measure 181
+rest   4
+measure 182
+rest   4
+measure 183
+rest   4
+measure 184
+rest   4
+measure 185
+rest   4
+measure 186
+rest   4
+measure 187
+G2     2        q     u
+rest   2        q
+measure 188
+rest   4
+measure 189
+rest   4
+measure 190
+rest   4
+measure 191
+rest   4
+measure 192
+rest   4
+measure 193
+rest   4
+measure 194
+rest   2        q
+G2     1        e     u  [
+G2     1        e     u  ]
+measure 195
+C3     2        q     u
+rest   2        q
+measure 196
+rest   4
+measure 197
+rest   4
+measure 198
+rest   4
+measure 199
+rest   4
+measure 200
+rest   4
+measure 201
+rest   4
+measure 202
+rest   4
+measure 203
+rest   4
+measure 204
+rest   4
+measure 205
+rest   4
+measure 206
+rest   4
+measure 207
+rest   4
+measure 208
+rest   4
+measure 209
+rest   4
+measure 210
+rest   4
+measure 211
+rest   4
+measure 212
+rest   4
+measure 213
+rest   4
+measure 214
+rest   4
+measure 215
+rest   4
+measure 216
+rest   4
+measure 217
+rest   4
+measure 218
+rest   4
+measure 219
+rest   4
+measure 220
+rest   4
+measure 221
+rest   4
+measure 222
+rest   4
+measure 223
+rest   4
+measure 224
+rest   4
+measure 225
+rest   4
+measure 226
+rest   4
+measure 227
+rest   4
+measure 228
+rest   4
+measure 229
+rest   4
+measure 230
+rest   4
+measure 231
+rest   4
+measure 232
+rest   4
+measure 233
+rest   4
+measure 234
+rest   4
+measure 235
+rest   4
+measure 236
+rest   4
+measure 237
+rest   4
+measure 238
+rest   4
+measure 239
+rest   4
+measure 240
+rest   4
+measure 241
+rest   4
+measure 242
+rest   4
+measure 243
+rest   4
+measure 244
+rest   4
+measure 245
+rest   4
+measure 246
+rest   4
+measure 247
+rest   4
+measure 248
+rest   1        e
+G2     1        e     u  [      ff
+P   C33:Y66
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 249
+*               D       ten.
+P    C17:Y65     C25:f33
+G2     4        h     u         Ft
+measure 250
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 251
+G2     4-       h     u        -t~
+measure 252                     ~
+*               D       ten.
+P    C17:Y65     C25:f33
+G2     4        h     u         Fc
+P    C33:y-15
+measure 253
+rest   4
+measure 254
+rest   4
+measure 255
+rest   4
+measure 256
+rest   4
+measure 257
+rest   4
+measure 258
+rest   4
+measure 259
+rest   4
+measure 260
+rest   4
+measure 261
+rest   4
+measure 262
+rest   4
+measure 263
+rest   4
+measure 264
+rest   4
+measure 265
+rest   4
+measure 266
+rest   4
+measure 267
+C3     2        q     u         p
+P    C33:Y58
+rest   2        q
+measure 268
+G2     2        q     u         f
+P   C33:Y66
+rest   2        q               F
+measure 269
+rest   4
+measure 270
+rest   4
+measure 271
+rest   4
+measure 272
+rest   4
+measure 273
+rest   4
+measure 274
+rest   4
+measure 275
+rest   4
+measure 276
+rest   4
+measure 277
+rest   4
+measure 278
+C3     2        q     u         f
+P    C33:Y62
+rest   2        q
+measure 279
+rest   4
+measure 280
+C3     2        q     u
+rest   2        q
+measure 281
+rest   4
+measure 282
+rest   4
+measure 283
+rest   4
+measure 284
+rest   4
+measure 285
+rest   4
+measure 286
+rest   4
+measure 287
+C3     2        q     u         f
+P    C33:Y62
+rest   2        q
+measure 288
+C3     2        q     u         f
+P    C33:Y62
+rest   2        q
+measure 289
+rest   4
+measure 290
+rest   4
+measure 291
+rest   2        q
+C3     1        e     u  [
+C3     1        e     u  ]
+measure 292
+G2     2        q     u
+rest   2        q
+measure 293
+rest   4
+measure 294
+rest   4
+measure 295
+rest   2        q
+C3     1        e     u  [
+C3     1        e     u  ]
+measure 296
+C3     1        e     u  [      ff
+P    C33:Y62     C26:A
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 297
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 298
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 299
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+P    C26:b
+measure 300
+C3     2        q     u
+rest   2        q
+measure 301
+rest   4
+measure 302
+G2     2        q     u
+rest   2        q
+measure 303
+rest   4
+measure 304
+rest   4
+measure 305
+rest   4
+measure 306
+rest   4
+measure 307
+rest   4
+measure 308
+rest   4
+measure 309
+rest   4
+measure 310
+rest   4
+measure 311
+rest   4
+measure 312
+rest   4
+measure 313
+rest   1        e
+G2     1        e     u  [      p
+P   C33:Y64
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 314
+C3     2        q     u
+rest   2        q
+measure 315
+rest   4
+measure 316
+rest   4
+measure 317
+rest   4
+measure 318
+rest   4
+measure 319
+rest   4
+measure 320
+rest   4
+measure 321
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 322
+C3     2        q     u
+rest   2        q
+measure 323
+rest   4
+measure 324
+rest   4
+measure 325
+rest   4
+measure 326
+rest   4
+measure 327
+rest   4
+measure 328
+rest   4
+measure 329
+rest   4
+measure 330
+rest   4
+measure 331
+rest   4
+measure 332
+rest   4
+measure 333
+rest   4
+measure 334
+rest   4
+measure 335
+rest   4
+measure 336
+rest   4
+measure 337
+rest   4
+measure 338
+rest   4
+measure 339
+rest   4
+measure 340
+rest   4
+measure 341
+rest   4
+measure 342
+rest   4
+measure 343
+rest   4
+measure 344
+rest   4
+measure 345
+rest   4
+measure 346
+G2     4-       h     u        -fft~
+P   C33:Y75
+measure 347                     ~
+G2     2        q     u         c
+G2     2        q     u
+measure 348
+C3     2        q     u
+rest   2        q
+measure 349
+G2     2        q     u
+rest   2        q
+measure 350
+C3     2        q     u
+rest   2        q
+measure 351
+C3     2        q     u
+rest   2        q
+measure 352
+G2     2        q     u
+rest   2        q
+measure 353
+G2     2        q     u
+rest   2        q
+measure 354
+G2     4-       h     u        -t~
+measure 355                     ~
+G2     4        h     u         c
+measure 356
+C3     2        q     u
+C3     2        q     u
+measure 357
+rest   2        q
+G2     2        q     u
+measure 358
+rest   2        q
+C3     2        q     u
+measure 359
+rest   2        q
+C3     2        q     u
+measure 360
+rest   2        q
+G2     2        q     u
+measure 361
+rest   2        q
+G2     2        q     u
+measure 362
+C3     2        q     u
+rest   2        q
+measure 363
+rest   4
+measure 364
+rest   4
+measure 365
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 366
+C3     2        q     u
+rest   2        q
+measure 367
+rest   4
+measure 368
+rest   4
+measure 369
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 370
+C3     2        q     u
+rest   2        q
+measure 371
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 372
+C3     2        q     u
+rest   2        q
+measure 373
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 374
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 375
+C3     2        q     u
+rest   2        q
+measure 376
+rest   1        e
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 377
+C3     2        q     u
+rest   2        q
+measure 378
+rest   1        e
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 379
+C3     2        q     u
+rest   2        q
+measure 380
+rest   1        e
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 381
+C3     2        q     u
+rest   2        q
+measure 382
+rest   4
+measure 383
+rest   4
+measure 384
+rest   4
+measure 385
+rest   4
+measure 386
+rest   4
+measure 387
+rest   4
+measure 388
+rest   4
+measure 389
+rest   4
+measure 390
+rest   1        e
+C3     1        e     u  [      ff
+P    C33:Y62
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 391
+C3     1        e     u  [
+P    C26:A
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 392
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 393
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 394
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+P    C26:b
+measure 395
+C3     2        q     u
+rest   2        q
+measure 396
+rest   1        e
+C3     1        e     u  [
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 397
+C3     2        q     u
+rest   2        q
+measure 398
+rest   4
+measure 399
+G2     2        q     u
+rest   2        q
+measure 400
+rest   4
+measure 401
+rest   4
+measure 402
+rest   4
+measure 403
+G2     2        q     u
+rest   2        q
+measure 404
+rest   4
+measure 405
+rest   4
+measure 406
+rest   4
+measure 407
+rest   4
+measure 408
+rest   4
+measure 409
+rest   4
+measure 410
+rest   4
+measure 411
+rest   4
+measure 412
+rest   4
+measure 413
+rest   4
+measure 414
+rest   4
+measure 415
+rest   2        q
+G2     2        q     u
+measure 416
+G2     2        q     u
+G2     2        q     u
+measure 417
+G2     2        q     u
+G2     2        q     u
+measure 418
+G2     2        q     u
+C3     2        q     u
+measure 419
+C3     2        q     u
+C3     2        q     u
+measure 420
+C3     2        q     u
+G2     2        q     u
+measure 421
+G2     2        q     u
+G2     2        q     u
+measure 422
+G2     2        q     u
+G2     2        q     u
+measure 423
+C3     1        e     u  [
+P    C26:a
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 424
+C3     2        q     u
+rest   2        q
+measure 425
+C3     1        e     u  [
+P    C26:a
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 426
+C3     2        q     u
+rest   2        q
+measure 427
+C3     1        e     u  [
+P    C26:a
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 428
+C3     2        q     u
+rest   2        q
+measure 429
+C3     1        e     u  [
+P    C26:a
+C3     1        e     u  =
+C3     1        e     u  =
+C3     1        e     u  ]
+measure 430
+C3     2        q     u
+rest   2        q
+measure 431
+G2     1        e     u  [
+P    C26:a
+G2     1        e     u  =
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 432
+G2     2        q     u
+rest   2        q
+measure 433
+C3     2        q     u         .
+rest   2        q
+measure 434
+C3     2        q     u         .
+rest   2        q
+measure 435
+C3     2        q     u         .
+rest   2        q
+measure 436
+C3     2        q     u         .
+rest   2        q
+measure 437
+G2     2        q     u         .
+rest   2        q
+measure 438
+G2     2        q     u         .
+rest   2        q
+measure 439
+C3     2        q     u         .
+rest   2        q
+measure 440
+C3     2        q     u
+C3     2        q     u
+measure 441
+C3     2        q     u
+rest   2        q
+measure 442
+C3     2        q     u
+C3     2        q     u
+measure 443
+C3     2        q     u
+rest   2        q
+measure 444
+C3     2        q     u
+C3     2        q     u
+measure 445
+C3     2        q     u
+rest   2        q
+measure 446
+G2     2        q     u
+G2     2        q     u
+measure 447
+G2     2        q     u
+rest   2        q
+measure 448
+rest   4
+measure 449
+rest   4
+measure 450
+G2     2        q     u
+G2     2        q     u
+measure 451
+G2     2        q     u
+rest   2        q
+measure 452
+rest   4
+measure 453
+rest   4
+measure 454
+rest   4
+measure 455
+rest   4
+measure 456
+C3     2        q     u
+C3     2        q     u
+measure 457
+rest   4
+measure 458
+C3     2        q     u
+C3     2        q     u
+measure 459
+rest   2        q
+G2     2        q     u
+measure 460
+rest   2        q
+G2     2        q     u
+measure 461
+rest   4
+measure 462
+rest   4
+measure 463
+C3     2        q     u
+C3     2        q     u
+measure 464
+C3     2        q     u
+C3     2        q     u
+measure 465
+C3     2        q     u
+C3     2        q     u
+measure 466
+C3     2        q     u
+C3     2        q     u
+measure 467
+rest   2        q
+G2     2        q     u
+measure 468
+rest   2        q
+G2     2        q     u
+measure 469
+C3     2        q     u
+rest   2        q
+measure 470
+rest   4
+measure 471
+rest   4
+measure 472
+rest   4
+measure 473
+rest   4
+measure 474
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 475
+C3     2        q     u
+rest   2        q
+measure 476
+rest   4
+measure 477
+rest   4
+measure 478
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 479
+G2     4        h     u         Ffft
+P   C34:Y70
+measure 480
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 481
+G2     4-       h     u        -t~
+measure 482                     ~
+G2     4        h     u         Fc
+P    C33:y-15
+measure 483
+rest   4
+measure 484
+rest   4
+measure 485
+rest   4
+measure 486
+rest   4
+measure 487
+rest   4
+measure 488
+rest   4
+measure 489
+rest   4
+measure 490
+rest   4
+measure 491
+rest   1        e
+G2     1        e     u  [      ff
+P   C33:Y68
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 492
+C3     2        q     u
+rest   2        q
+measure 493
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 494
+C3     2        q     u
+rest   2        q
+measure 495
+rest   1        e
+G2     1        e     u  [
+G2     1        e     u  =
+G2     1        e     u  ]
+measure 496
+C3     2        q     u
+G2     2        q     u
+measure 497
+C3     2        q     u
+G2     2        q     u
+measure 498
+C3     2        q     u
+G2     2        q     u
+measure 499
+C3     2        q     u
+G2     2        q     u
+measure 500
+C3     2        q     u
+rest   2        q
+measure 501
+G2     2        q     u
+rest   2        q
+measure 502
+C3     2        q     u
+rest   2        q
+mheavy2
+/END
+@SUPERSEDES: TIMESTAMP: DEC/26/2001 [md5sum:dbe84c16b890f0d09c2ae686c392e13c]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/10/2005 [md5sum:f88feb59af1acb6afd846fc701aaca86]
+@REASON: consolidation of Beethoven data
+@SUPERSEDES: TIMESTAMP: DEC/30/2005 [md5sum:5ed9e6ec9b18f06e1ab22ed458167c58]
+@REASON: additions and refinements to Beethoven data

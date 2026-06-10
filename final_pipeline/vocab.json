@@ -1,0 +1,12 @@
+{
+  "instrument_to_id": {},
+  "id_to_instrument": {},
+  "special_tokens": {
+    "<PAD>": 0,
+    "<SOS>": 1,
+    "<EOS>": 2,
+    "<SEP>": 3,
+    "<UNK>": 4
+  },
+  "next_instrument_id": 5
+}
